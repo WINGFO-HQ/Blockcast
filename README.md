@@ -45,7 +45,7 @@ The script performs the following steps:
     * Clones the Blockcast node software from the official GitHub repository (or updates it if already cloned).
     * Starts the Blockcast services (`blockcastd`, `redis`) using `docker compose up -d`.
 5.  **Blockcast Account Registration (Manual Web Step):**
-    * The script will display a referral link: `https://app.blockcast.network?referral-code=xTCw3m`.
+    * The script will display a dashboard register link: `https://app.blockcast.network?referral-code=xTCw3m`.
     * It will instruct you to open this link in your browser to create a new Blockcast account or log into an existing one.
     * The script will **pause** and wait for you to press [Enter] before proceeding. This step is crucial as node registration usually requires an active account session.
 6.  **Node Initialization & Information Gathering:**
