@@ -57,12 +57,6 @@ The script performs the following steps:
     * You will then need to fill in your node's details on the Blockcast dashboard, using the location information provided by the script as a guide.
     * After completing the form on the website, your node should appear online in the dashboard after a few minutes.
 
-## Referral Link
-
-Please note that this script includes a step (Step 3.5) that presents a referral link for creating a Blockcast account:
-`https://app.blockcast.network?referral-code=xTCw3m`
-Using this link may provide a referral bonus as per Blockcast's referral program terms.
-
 ## Important Notes
 
 * **Sudo Usage:** This script uses `sudo` for package installation and service management. Please review the script if you have any concerns.
